@@ -1,2 +1,2 @@
 # YouTube-Manager
-Program to manage YouTube videos data using standards code (no use of database)
+Program to manage YouTube videos data using standard coding (no use of database)
